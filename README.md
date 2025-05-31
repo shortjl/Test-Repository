@@ -1,1 +1,1 @@
-# jl
+# THIS IS A TEST REPOSITORY. I first practiced here in one of the codespaces before I downloaded VS code and actually learned a little bit on how to code with Python. If you can see one of the codespaces in this repository, it's actually made by AI specifically the Co-Pilot thing and I'm just kind of finding ways to make it better. So if you somehow saw this page randomly, then HELLO!! :)
